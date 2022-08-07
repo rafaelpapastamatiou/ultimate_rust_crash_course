@@ -8,6 +8,5 @@ fn main() {
 
     missiles = missiles - ready;
 
-    println!("{} missiles left", missiles);
-    
+    println!("{} missiles left", missiles);   
 }
